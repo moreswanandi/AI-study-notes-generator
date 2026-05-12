@@ -5,6 +5,7 @@
 2. [Flowchart](#flowchart)  
 3. [Result and Analysis](#result-and-analysis)  
 4. [Technology Used](#technology-used)  
+5. [Interactive Features](#interactive-features)  
 
 ---
 
@@ -39,5 +40,12 @@ Here are some sample outputs and analysis screenshots:
 - **Gemini** – Context-aware text generation  
 - **Claude** – Natural language understanding  
 - **Gork** – Knowledge structuring and analysis  
+
+---
+
+## 🧠 Interactive Features
+- **Interactive Quizzes** – Automatically generates topic-based quizzes to test understanding.  
+- **Flash Cards** – Creates smart flashcards for quick recall and spaced repetition learning.  
+- **Adaptive Learning** – Adjusts difficulty based on user performance and feedback.  
 
 ---
