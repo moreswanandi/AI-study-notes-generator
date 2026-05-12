@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Notes Generator",
+  "description": "An AI-powered study assistant that helps students generate summaries, key points, and quizzes from PDF notes or text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Summarization", "Quiz Generation", "PDF Parsing", "Smart Study Tools"]
+}
