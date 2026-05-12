@@ -17,21 +17,42 @@ The AI Study Notes Generator is a smart tool that transforms textbooks, lectures
 ## 🔄 Flowchart
 Below is a flowchart explaining how the project works:
 
-![Flowchart](flowchart.png)
+<img width="500" height="700" alt="Copilot_20260512_102439" src="https://github.com/user-attachments/assets/2181fbcb-61f7-48c2-85c7-90cc872ebb47" />
 
 *(Add your flowchart image as `flowchart.png` in the repository so it displays here.)*
 
 ---
 
-## 📊 Result and Analysis
-Here are some sample outputs and analysis screenshots:
+---
 
-![Result 1](result1.png)  
-![Result 2](result2.png)  
-![Result 3](result3.png)  
-![Result 4](result4.png)
+# 📊 Results and Analysis
 
-*(Upload your result images as `result1.png`, `result2.png`, etc. in the repo.)*
+## 🏠 Home Page
+<img width="700" height="400" alt="home page" src="https://github.com/user-attachments/assets/01ed1348-1fbd-42d3-832f-8cabc95bd129" />
+
+---
+
+## 📝 AI Generated Summary 
+<img width="700" height="400" alt="summary" src="https://github.com/user-attachments/assets/a2cf6f1f-b085-4cbc-9509-7641ff41d882" />
+
+---
+
+## 📂 Bulletin Points
+<img width="700" height="400" alt="bulletin points" src="https://github.com/user-attachments/assets/14955547-9858-41ff-8e6e-2711f66811a4" />
+
+---
+
+## ❓ Quiz 
+<img width="700" height="400" alt="quiz" src="https://github.com/user-attachments/assets/978209d8-a82a-4188-bd4b-a89fa84ed8d8" />
+
+
+## 💪 Flashcards
+<img width="700" height="400" alt="flashcards" src="https://github.com/user-attachments/assets/f494ea23-3ef8-4d9b-ab2a-3f724dd73cfc" />
+
+---
+
+
+
 
 ---
 
