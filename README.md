@@ -1,18 +1,43 @@
-##AI STUDY NOTES GENERATOR
+# 📘 AI Study Notes Generator
 
-# Run and deploy your AI Studio app
+## 📑 Table of Contents
+1. [About the Project](#about-the-project)  
+2. [Flowchart](#flowchart)  
+3. [Result and Analysis](#result-and-analysis)  
+4. [Technology Used](#technology-used)  
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/9bc673fa-4e39-4750-9876-f3eb0665609e
+## 📝 About the Project
+The AI Study Notes Generator is a smart tool that transforms textbooks, lectures, or articles into concise, organized notes. It highlights key points, simplifies complex topics, and structures content into easy-to-review formats. Perfect for quick revision, it saves time and boosts learning efficiency.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🔄 Flowchart
+Below is a flowchart explaining how the project works:
 
+![Flowchart](flowchart.png)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+*(Add your flowchart image as `flowchart.png` in the repository so it displays here.)*
+
+---
+
+## 📊 Result and Analysis
+Here are some sample outputs and analysis screenshots:
+
+![Result 1](result1.png)  
+![Result 2](result2.png)  
+![Result 3](result3.png)  
+![Result 4](result4.png)
+
+*(Upload your result images as `result1.png`, `result2.png`, etc. in the repo.)*
+
+---
+
+## ⚙️ Technology Used
+- **Gemma** – AI model for summarization  
+- **Gemini** – Context-aware text generation  
+- **Claude** – Natural language understanding  
+- **Gork** – Knowledge structuring and analysis  
+
+---
